@@ -1,7 +1,7 @@
 # Trident
 The main idea is to make a hackpad that has 3 modes that you can change by rotating the knob
 
-![Description](images/preview.png)
+![Description](preview.png)
 
 ## Macros:
 B1: ctrl+c
