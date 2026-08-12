@@ -10,10 +10,14 @@ B1: ctrl+c
 B2: ctrl+v
 B3: ctrl+s
 
+## PCB and Schematic
 
-## Knob:
 ![PCB](preview3.png)
 
+![Schematic](preview4.png)
+
+
+## Knob:
 Turn left: Turn down the volume
 Turn right: Turn up the volume
 Click: Mutes the audio
