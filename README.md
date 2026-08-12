@@ -4,9 +4,11 @@ The main idea is to make a hackpad that has 3 modes that you can change by rotat
 ![Description](preview.png)
 
 ## Macros:
+![Firmware](preview2.png)
 B1: ctrl+c
 B2: ctrl+v
 B3: ctrl+s
+
 
 ## Knob:
 Turn left: Turn down the volume
