@@ -12,6 +12,8 @@ B3: ctrl+s
 
 
 ## Knob:
+![PCB](preview3.png)
+
 Turn left: Turn down the volume
 Turn right: Turn up the volume
 Click: Mutes the audio
