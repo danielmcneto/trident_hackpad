@@ -8,17 +8,17 @@ Designed to streamline your workflow, this device lets you switch between three 
 - EC11 Rotary encoder for changing modes
 - 3 Keys
 
-## CAD Model:
-Everything fits together using 4 M3 Bolts and heatset inserts.
+## CAD:
+Everything mounts together using 4 M3 Screws and heatset inserts.
 
-It has 2 separate printed pieces.The base where the PCB fits, and the top cover.
+It has 2 printed pieces.The base where the PCB fits, and the top cover.
 
 <img src=preview.png alt="Schematci" widht = "500"/>
 
 Made in FreeCAD
 
 ## PCB
-Here's my PCB! It was made in KiCad.
+Here's the PCB. It was made in KiCad.
 
 Schematic
 
@@ -28,9 +28,9 @@ PCB
 
 <img src=preview3.png alt="Schematic" width="300"/>
 
-## Firmware Overview
+## Firmware
 
-- the rotary encoder changes volume. press to mute
+- the rotary encoder changes volume and press to mute
 - The 3 keys act as macros
   
     -B1: ctrl+c
