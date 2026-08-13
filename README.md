@@ -1,28 +1,54 @@
 # Trident
-The main idea is to make a hackpad that has 3 modes that you can change by rotating the knob
 
-![Description](preview.png)
+Trident is a 3 key macropad with a rotary encoder, and uses KMK firmware
 
-## Macros:
-![Firmware](preview2.png)
+Designed to streamline your workflow, this device lets you switch between three specialized modes (Code, CAD, and GameDev), each offering a unique set of macros.(Working in progress)
 
-B1: ctrl+c
-B2: ctrl+v
-B3: ctrl+s
+## Features:
+- EC11 Rotary encoder for changing modes
+- 3 Keys
 
-## PCB and Schematic
+## CAD Model:
+Everything fits together using 4 M3 Bolts and heatset inserts.
 
-![PCB](preview3.png)
+It has 2 separate printed pieces.The base where the PCB fits, and the top cover.
 
-![Schematic](preview4.png)
+<img src=preview.png alt="Schematci" widht = "500"/>
 
+Made in FreeCAD
 
-## Knob:
-Turn left: Turn down the volume
-Turn right: Turn up the volume
-Click: Mutes the audio
+## PCB
+Here's my PCB! It was made in KiCad.
 
-## Built with:
-**FreeCAD**
-**KiCAD**
-**Python(with KMK)**
+Schematic
+
+<img src=preview4.png alt="Schematic" width="300"/>
+
+PCB
+
+<img src=preview3.png alt="Schematic" width="300"/>
+
+## Firmware Overview
+
+- the rotary encoder changes volume. press to mute
+- The 3 keys act as macros
+  
+    -B1: ctrl+c
+  
+    -B2: ctrl+v
+  
+    -B3: ctrl+s
+
+<img src=preview2.png alt="firmware" width="300"/>
+
+I will add more in the future!!!
+
+## BOM:
+
+- 3x Cherry MX Switches
+- 3x DSA Keycaps
+- 4x M3x5x4mm Heatset inserts
+- 4x M3x16mm screws
+- 1x EC11 Rotary Encoder
+- 1x XIAO RP2040
+- 1x Case (2 3d printed parts)
